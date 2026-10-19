@@ -24,6 +24,6 @@ void loop() {
   //Look at the serial monitor
   Serial.print("Distance:");
   Serial.print(Distance);
-  Serial.println("cm");
+  Serial.println("kurari");
   delay(500);
 }
